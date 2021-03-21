@@ -1,4 +1,4 @@
-# PHPAutoDeleteByFreeSizeLimitInWindow
+# PHPAutoDeleteByFreeSizeLimitInWindows
 
 ## Guide Note
 1. Copy and place file into your computer
