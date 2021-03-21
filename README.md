@@ -12,3 +12,6 @@
 9. Choose Start a Program -> klik Next
 10. Browse .bat file that you created -> klik Next
 11. Then Finish
+
+Thank you -_- 
+By P@trick
