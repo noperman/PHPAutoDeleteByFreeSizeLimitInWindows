@@ -1,4 +1,16 @@
 <?php
+/**
+ * init.php
+ *
+ * Maintenance System
+ *
+ * @category   Maintenace
+ * @package    Backup
+ * @author     Noperman
+ * @copyright  2020 Noperman
+ * @link       https://github.com/noperman/PHPAutoDeleteByFreeSizeLimitInWindows
+ */
+
 $disk = disk_total_space("C:");
 $free = disk_free_space("C:");
 $gb = 1073741824;
